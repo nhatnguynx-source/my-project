@@ -11,7 +11,7 @@ Dự án thực hiện quy trình Pentest toàn diện trên môi trường máy
     * **Samba 2.2.1a (trans2open):** Khai thác lỗ hổng Buffer Overflow để chiếm Root shell thành công.
     * **SSL/TLS Vulnerabilities:** Phát hiện các lỗi bảo mật nghiêm trọng (POODLE, CCS Injection, Weak DH Group) qua quét Nmap Scripting Engine (NSE).
 * **Tài liệu:**
-    * 📄 [Báo cáo Vulnerability Assessment & Exploitation (Google Docs)](https://docs.google.com/document/d/10JX6g9oxGI9HIPWLpTfJ2Td8I0B84qns/edit)
+    * 📄 [Báo cáo Vulnerability Assessment & Exploitation (Google Docs)](https://docs.google.com/document/d/1OJX6g9oxGI9HIPWLpTfJ2Td8I0B84qns/edit))
 
 ---
 
